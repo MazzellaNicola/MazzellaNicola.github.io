@@ -4,7 +4,7 @@ This personal portfolio website implements the [vCard Template](https://github.c
 
 ## Demo
 
-![Mazzella Nicola - Portfolio](https://mazzellanicola.github.io/)
+![Mazzella Nicola - Personal website](https://mazzellanicola.github.io/)
 
 
 ## Contact
